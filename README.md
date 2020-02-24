@@ -8,7 +8,7 @@
 ![Cat before and after](readme-images/before-after.png)
 ![Family object detection](readme-images/family-after.jpg)
 
-### The course
+# Get the course on Skillshare
 
 ![Available on Skillshare](readme-images/skillshare-logo.png)
 
